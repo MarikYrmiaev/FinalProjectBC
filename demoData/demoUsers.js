@@ -1,0 +1,1 @@
+export default [{ name: 'nisim' }, { name: 'david' }, { name: 'moshe' }]
